@@ -17,7 +17,7 @@ I have made use of OpenCV library with medium filtering technique for the implem
 
 The test video contains a CCTV footage of a higway with continous moving vehicles on it. The camera is static in the video and hence, every pixel sees the same piece of the background for most of the time. Occasionaly, some pixels gets covered by the moving vehicles, but only for a fraction of time.
 
-Now fisrt, I have randomly selected few frames (30 frames to be exact) from the test video. It gives us 30 estimates of the background for each and every pixel. Since, none of the pixels in that test video is covered by a movinng object or a vehicle for more than just few nano seconds, I applied the median filter on each pixel over these 30 frames and it gave me a really good estimate of the background at those specific pixels.
+Now fisrt, I have randomly selected few frames (30 frames to be exact) from the test video. It gives us 30 estimates of the background for each and every pixel. Since, none of the pixels in that test video is covered by a movinng object or a vehicle for more than just few nano seconds, I applied the median filter technique of OpenCV on each pixel over these 30 frames and it gave me a really good estimate of the background at those specific pixels.
 
 The same process is repeated for every pixel and from that I recovered the entire background, giving me an image of a higway with no vehicles on it.
 
