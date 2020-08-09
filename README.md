@@ -23,6 +23,12 @@ The same process is repeated for every pixel and from that I recovered the entir
 
 From this image we can create a video where Optimus Prime is running on this highway without any fear of hurting any humans.
 
+### Files
+Test Video: "cut.mp4"
+Python Script for this task: "RoadWithoutVehicles.py"
+Output of the program: "Highway.jpeg"
+Write-up for this task: "README.md"
+
 ## References
 1. https://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html
 
