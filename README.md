@@ -1,5 +1,5 @@
 # Road Generator Without Vehicles
-This is an implementation of the task provided by SYNERGYLABS, hiring for the DL Engineer role.
+This is an implementation of the task provided by SYNERGYLABS, hiring for the pot of DL Engineer.
 
 ## Problem Statement
 Generate road without vehicle by averaging frames of a video footage.
