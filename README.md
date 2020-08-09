@@ -23,7 +23,7 @@ The same process is repeated for every pixel and from that I recovered the entir
 
 From this image we can create a video where Optimus Prime is running on this highway without any fear of hurting any humans.
 
-## Refrences
+## References
 1. https://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html
 
 2. https://stackoverflow.com/questions/25359288/how-to-know-total-number-of-frame-in-a-file-with-cv2-in-python
@@ -34,4 +34,4 @@ From this image we can create a video where Optimus Prime is running on this hig
 
 5. https://stackoverflow.com/questions/39316447/opencv-giving-wrong-color-to-colored-images-on-loading
 
-https://html.developreference.com/article/23487587/Why+OpenCV+Using+BGR+Colour+Space+Instead+of+RGB
+6. https://html.developreference.com/article/23487587/Why+OpenCV+Using+BGR+Colour+Space+Instead+of+RGB
