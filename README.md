@@ -41,3 +41,5 @@ From this image we can create a video where Optimus Prime is running on this hig
 5. https://stackoverflow.com/questions/39316447/opencv-giving-wrong-color-to-colored-images-on-loading
 
 6. https://html.developreference.com/article/23487587/Why+OpenCV+Using+BGR+Colour+Space+Instead+of+RGB
+
+7. Satya Mallick (https://www.learnopencv.com/)
